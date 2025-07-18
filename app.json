@@ -1,7 +1,7 @@
 
 {
   
-  "name": "INCONNNU-XD-V2",
+  "name": "BALTHAZAR",
   "description": "Best Whatsapp bot made by inconnu boy tech",
   "logo":"https://files.catbox.moe/959dyk.jpg",
   "keywords": [
@@ -11,14 +11,14 @@
   "stack":"heroku-24",
   "env":{
       "SESSION_ID": {
-      "description": "Paste here session id that you have scanned",
+      "description": "INCONNU~XD~Wtwk2Y4Z#kk4T8kC1O8r3KbJRsbJFJ5HDhRvWZlVH63MMuLuKi5o",
       "required": true,
       "value": ""
     },
     "MODE": {
       "description": "Enter public or private",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter true for autoview status. Or leave blank",
@@ -37,12 +37,12 @@
     },
     "AUTO_RECORDING": {
       "description": "Enter true if you want bot to show recording audio. Or leave blank",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "ALWAYS_ONLINE": {
       "description": "Enter it true if you want bot to show always online. Or leave blank",
-      "required": false,
+      "required": true,
       "value": ""
     },
     "AUTO_BLOCK": {
